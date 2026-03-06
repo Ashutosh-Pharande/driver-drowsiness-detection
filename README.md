@@ -61,7 +61,7 @@ driver-drowsiness-detection
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/driver-drowsiness-detection.git
+git clone https://github.com/Ashutosh-Pharande/driver-drowsiness-detection.git
 
 cd driver-drowsiness-detection
 
